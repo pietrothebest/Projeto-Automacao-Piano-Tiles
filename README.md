@@ -2,7 +2,7 @@
 Essa é uma automação do jogo piano Tiles pra navegador link do jogo 
 Foi usado como base o jogo Piano Tiles 2 do jogos360
 https://www.jogos360.com.br/piano_tiles_2_online.html
-monito na resolução 1280 por 720 
+monitor na resolução 1280 por 720 
 Por isso é importante mapear os pixels iniciais da sua tela e os pixels que serão tirados a screenshot
 use o pyautogui.position() para pegar a posição do mouse.
 
